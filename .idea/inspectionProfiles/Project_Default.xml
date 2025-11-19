@@ -1,0 +1,42 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <value>
+          <list size="17">
+            <item index="0" class="java.lang.String" itemvalue="uvicorn" />
+            <item index="1" class="java.lang.String" itemvalue="proxychains4" />
+            <item index="2" class="java.lang.String" itemvalue="pillow" />
+            <item index="3" class="java.lang.String" itemvalue="annotated-types" />
+            <item index="4" class="java.lang.String" itemvalue="PyJWT" />
+            <item index="5" class="java.lang.String" itemvalue="dnspython" />
+            <item index="6" class="java.lang.String" itemvalue="greenlet" />
+            <item index="7" class="java.lang.String" itemvalue="Werkzeug" />
+            <item index="8" class="java.lang.String" itemvalue="PyYAML" />
+            <item index="9" class="java.lang.String" itemvalue="SQLAlchemy" />
+            <item index="10" class="java.lang.String" itemvalue="MarkupSafe" />
+            <item index="11" class="java.lang.String" itemvalue="pyasn1" />
+            <item index="12" class="java.lang.String" itemvalue="email_validator" />
+            <item index="13" class="java.lang.String" itemvalue="oauthlib" />
+            <item index="14" class="java.lang.String" itemvalue="typing_extensions" />
+            <item index="15" class="java.lang.String" itemvalue="anyio" />
+            <item index="16" class="java.lang.String" itemvalue="idna" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyPep8Inspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="E265" />
+          <option value="E302" />
+          <option value="E261" />
+          <option value="E501" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyShadowingNamesInspection" enabled="true" level="INFORMATION" enabled_by_default="true" />
+    <inspection_tool class="SqlDialectInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+  </profile>
+</component>

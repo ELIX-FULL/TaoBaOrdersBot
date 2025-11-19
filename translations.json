@@ -1,0 +1,282 @@
+{
+  "choose_language": {
+    "ru": "🇷🇺 Выберите язык:",
+    "en": "🇬🇧 Choose your language:",
+    "uz": "🇺🇿 Tilingizni tanlang:"
+  },
+  "language_selected": {
+    "ru": "✅ Язык установлен на Русский.",
+    "en": "✅ Language set to English.",
+    "uz": "✅ Til O'zbekcha qilib o'rnatildi."
+  },
+  "agreement_prompt": {
+    "ru": "⚖️ Вы соглашаетесь с политикой конфиденциальности и условиями использования.\n\n<a href='https://www.uzairways.com/ru/informaciya-o-tamozhennykh-pravilakh-dlya-fizicheskikh-lic'>🔗 Политика</a>\n<a href='https://www.google.com'>🔗 Пользовательское соглашение</a>\n\nПожалуйста, подтвердите:",
+    "en": "⚖️ You agree to the privacy policy and terms of use.\n\n<a href='https://www.uzairways.com/en/information-about-customs-regulations-individuals'>🔗 Policy</a>\n<a href='https://www.google.com'>🔗 Terms of Service</a>\n\nPlease confirm:",
+    "uz": "⚖️ Maxfiylik siyosati va foydalanish shartlariga rozilik bildirasiz.\n\n<a href='https://www.uzairways.com/uz/fizik-shaxslar-uchun-bojxona-qoidalari-haqida-malumot'>🔗 Siyosat</a>\n<a href='https://www.google.com'>🔗 Foydalanuvchi shartnomasi</a>\n\nIltimos, tasdiqlang:"
+  },
+  "agree_yes_btn": {
+    "ru": "✅ Соглашаюсь",
+    "en": "✅ I Agree",
+    "uz": "✅ Roziman"
+  },
+  "agree_no_btn": {
+    "ru": "❌ Не согласен",
+    "en": "❌ I Disagree",
+    "uz": "❌ Rozimasman"
+  },
+  "agree_no_reply": {
+    "ru": "❌ Вы должны согласиться, чтобы продолжить. Нажмите /start ещё раз.",
+    "en": "❌ You must agree to continue. Press /start again.",
+    "uz": "❌ Davom etish uchun rozi bo'lishingiz kerak. /start tugmasini qayta bosing."
+  },
+  "agree_thanks": {
+    "ru": "✅ Спасибо за согласие!",
+    "en": "✅ Thank you for your agreement!",
+    "uz": "✅ Roziligingiz uchun rahmat!"
+  },
+  "main_menu_title": {
+    "ru": "Главное меню:",
+    "en": "Main menu:",
+    "uz": "Asosiy menyu:"
+  },
+  "main_menu_order_btn": {
+    "ru": "📦 Оформить заказ",
+    "en": "📦 Place an order",
+    "uz": "📦 Buyurtma berish"
+  },
+  "main_menu_my_orders_btn": {
+    "ru": "📋 Мои заказы",
+    "en": "📋 My orders",
+    "uz": "📋 Buyurtmalarim"
+  },
+  "main_menu_help_btn": {
+    "ru": "ℹ️ Помощь",
+    "en": "ℹ️ Help",
+    "uz": "ℹ️ Yordam"
+  },
+  "admin_order_info_btn": {
+    "ru": "ℹ️ Информация о заказе",
+    "en": "ℹ️ Order Information",
+    "uz": "ℹ️ Buyurtma haqida ma'lumot"
+  },
+  "admin_stats_btn": {
+    "ru": "📊 Статистика",
+    "en": "📊 Statistics",
+    "uz": "📊 Statistika"
+  },
+  "get_name_prompt": {
+    "ru": "Введите Имя и Фамилию (например: Иван Иванов):",
+    "en": "Enter your First and Last name (e.g., John Smith):",
+    "uz": "Ism va familiyangizni kiriting (masalan: Aziz Azimov):"
+  },
+  "name_error": {
+    "ru": "❌ Нужно минимум 2 слова. Введите снова:",
+    "en": "❌ At least 2 words are required. Please enter again:",
+    "uz": "❌ Kamida 2 ta so'z kerak. Qayta kiriting:"
+  },
+  "get_phone_prompt": {
+    "ru": "Введите номер телефона (начинается с +):",
+    "en": "Enter your phone number (must start with +):",
+    "uz": "Telefon raqamingizni kiriting (+ bilan boshlanishi kerak):"
+  },
+  "phone_error": {
+    "ru": "❌ Телефон должен начинаться с '+'. Попробуйте снова:",
+    "en": "❌ The phone number must start with '+'. Please try again:",
+    "uz": "❌ Telefon raqami '+' bilan boshlanishi kerak. Qayta urinib ko'ring:"
+  },
+  "confirm_data_prompt": {
+    "ru": "Проверьте данные:",
+    "en": "Check your data:",
+    "uz": "Ma'lumotlarni tekshiring:"
+  },
+  "confirm_yes_btn": {
+    "ru": "✅ Да",
+    "en": "✅ Yes",
+    "uz": "✅ Ha"
+  },
+  "confirm_no_btn": {
+    "ru": "❌ Есть ошибка",
+    "en": "❌ There is a mistake",
+    "uz": "❌ Xatolik bor"
+  },
+  "restart_prompt": {
+    "ru": "❌ Давайте начнем заново. Введите ФИО:",
+    "en": "❌ Let's start over. Enter your full name:",
+    "uz": "❌ Keling, boshidan boshlaymiz. Ism-familiyangizni kiriting:"
+  },
+  "address_prompt": {
+    "ru": "1. Обязательно введите этот id <code>Gv{user_id}</code> к строке адреса в Taobao.\n\n2. Теперь отправьте номер заказа с Taobao:",
+    "en": "1. Be sure to add this ID <code>Gv{user_id}</code> to the address line in Taobao.\n\n2. Now, send the order number from Taobao:",
+    "uz": "1. Taobao'dagi manzil qatoriga ushbu IDni <code>Gv{user_id}</code> kiritishingiz shart.\n\n2. Endi Taobao'dan buyurtma raqamini yuboring:"
+  },
+  "get_order_number_error": {
+    "ru": "❌ Пожалуйста, отправьте номер заказа в виде текста.",
+    "en": "❌ Please send the order number as text.",
+    "uz": "❌ Iltimos, buyurtma raqamini matn shaklida yuboring."
+  },
+  "get_location_prompt": {
+    "ru": "📍 Отправьте свою локацию в Узбекистане:",
+    "en": "📍 Send your location in Uzbekistan:",
+    "uz": "📍 O'zbekistondagi joylashuvingizni yuboring:"
+  },
+  "location_share_btn": {
+    "ru": "📍 Поделиться локацией",
+    "en": "📍 Share location",
+    "uz": "📍 Joylashuvni ulashish"
+  },
+  "location_received": {
+    "ru": "Локация получена.",
+    "en": "Location received.",
+    "uz": "Joylashuv qabul qilindi."
+  },
+  "final_check_prompt": {
+    "ru": "Проверьте ещё раз перед подтверждением:",
+    "en": "Please double-check before confirming:",
+    "uz": "Tasdiqlashdan oldin yana bir bor tekshiring:"
+  },
+  "final_confirm_btn": {
+    "ru": "✅ Да, всё правильно",
+    "en": "✅ Yes, everything is correct",
+    "uz": "✅ Ha, hammasi to'g'ri"
+  },
+  "final_reject_btn": {
+    "ru": "❌ Есть ошибка",
+    "en": "❌ There is a mistake",
+    "uz": "❌ Xatolik bor"
+  },
+  "final_restart_prompt": {
+    "ru": "❌ Понял. Начнём заново. Введите Имя и Фамилию:",
+    "en": "❌ Understood. Let's start over. Enter your First and Last name:",
+    "uz": "❌ Tushunarli. Keling, boshidan boshlaymiz. Ism va Familiyangizni kiriting:"
+  },
+  "order_success_title": {
+    "ru": "✅ <b>Ваш заказ зарегистрирован!</b>",
+    "en": "✅ <b>Your order has been registered!</b>",
+    "uz": "✅ <b>Buyurtmangiz ro'yxatga olindi!</b>"
+  },
+  "your_order_number": {
+    "ru": "Номер вашего заказа",
+    "en": "Your order number",
+    "uz": "Sizning buyurtma raqamingiz"
+  },
+  "details": {
+    "ru": "Детали",
+    "en": "Details",
+    "uz": "Tafsilotlar"
+  },
+  "full_name_label": {
+    "ru": "ФИО",
+    "en": "Full Name",
+    "uz": "F.I.Sh."
+  },
+  "phone_label": {
+    "ru": "Телефон",
+    "en": "Phone",
+    "uz": "Telefon"
+  },
+  "taobao_id_label": {
+    "ru": "Ваш ID для Taobao",
+    "en": "Your ID for Taobao",
+    "uz": "Sizning Taobao uchun ID"
+  },
+  "taobao_order_num_label": {
+    "ru": "Номер заказа (Taobao)",
+    "en": "Order number (Taobao)",
+    "uz": "Buyurtma raqami (Taobao)"
+  },
+  "date_label": {
+    "ru": "Дата",
+    "en": "Date",
+    "uz": "Sana"
+  },
+  "location_label": {
+    "ru": "Локация",
+    "en": "Location",
+    "uz": "Joylashuv"
+  },
+  "no_orders": {
+    "ru": "❌ У вас нет заказов.",
+    "en": "❌ You have no orders.",
+    "uz": "❌ Sizda buyurtmalar yo'q."
+  },
+  "order_info_error": {
+    "ru": "Ошибка: данные заказа не найдены.",
+    "en": "Error: order data not found.",
+    "uz": "Xatolik: buyurtma ma'lumotlari topilmadi."
+  },
+  "order_x_of_y": {
+    "ru": "Заказ {index} из {total}",
+    "en": "Order {index} of {total}",
+    "uz": "Buyurtma {index}/{total}"
+  },
+  "prev_btn": {
+    "ru": "⬅️ Предыдущий",
+    "en": "⬅️ Previous",
+    "uz": "⬅️ Oldingisi"
+  },
+  "next_btn": {
+    "ru": "➡️ Следующий",
+    "en": "➡️ Next",
+    "uz": "➡️ Keyingisi"
+  },
+  "stats_message": {
+    "ru": "📊 Всего уникальных пользователей в боте: <b>{count}</b>",
+    "en": "📊 Total unique users in the bot: <b>{count}</b>",
+    "uz": "📊 Botdagi unikal foydalanuvchilar soni: <b>{count}</b>"
+  },
+  "admin_find_order_prompt": {
+    "ru": "Введите номер заказа для поиска (например, Gv1001):",
+    "en": "Enter the order number to search (e.g., Gv1001):",
+    "uz": "Qidirish uchun buyurtma raqamini kiriting (masalan, Gv1001):"
+  },
+  "admin_order_not_found": {
+    "ru": "❌ Заказ с номером <code>{number}</code> не найден.",
+    "en": "❌ Order with number <code>{number}</code> not found.",
+    "uz": "❌ <code>{number}</code> raqamli buyurtma topilmadi."
+  },
+  "admin_order_found_title": {
+    "ru": "✅ <b>Найден заказ: {number}</b>",
+    "en": "✅ <b>Order found: {number}</b>",
+    "uz": "✅ <b>Buyurtma topildi: {number}</b>"
+  },
+  "admin_user_data_label": {
+    "ru": "<b>Данные пользователя:</b>",
+    "en": "<b>User Data:</b>",
+    "uz": "<b>Foydalanuvchi ma'lumotlari:</b>"
+  },
+  "admin_order_data_label": {
+    "ru": "<b>Данные заказа:</b>",
+    "en": "<b>Order Data:</b>",
+    "uz": "<b>Buyurtma ma'lumotlari:</b>"
+  },
+  "admin_open_chat_link": {
+    "ru": "открыть чат",
+    "en": "open chat",
+    "uz": "chatni ochish"
+  },
+  "help_text": {
+    "ru": "📞 Контакты поддержки:\n\nTelegram: @ObaidAhmad\nТелефон: +998900540550",
+    "en": "📞 Support contacts:\n\nTelegram: @ObaidAhmad\nPhone: +998900540550",
+    "uz": "📞 Qo'llab-quvvatlash xizmati:\n\nTelegram: @ObaidAhmad\nTelefon: +998900540550"
+  },
+  "location_not_specified": {
+    "ru": "Локация не указана",
+    "en": "Location not specified",
+    "uz": "Joylashuv ko'rsatilmagan"
+  },
+  "main_menu_settings_btn": {
+    "ru": "⚙️ Настройки",
+    "en": "⚙️ Settings",
+    "uz": "⚙️ Sozlamalar"
+  },
+  "settings_menu_title": {
+    "ru": "Выберите язык для бота:",
+    "en": "Select the bot language:",
+    "uz": "Botni tilini tanlang:"
+  },
+  "back_btn": {
+    "ru": "⬅️ Назад",
+    "en": "⬅️ Back",
+    "uz": "⬅️ Orqaga"
+  }
+}
